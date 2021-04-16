@@ -15,6 +15,7 @@ let myname=null ;
     myHeading.textContent = ' Why you should date me '
   }
   
-
+let mybutton = document.querySelector('button');
+mybutton.onclick = function() {window.location.href="Liar.html"}
   
   
